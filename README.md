@@ -10,7 +10,7 @@ Currently, I'm diving deeper into advanced technologies and methodologies to bui
 I’m enthusiastic about contributing to open-source projects, particularly those aimed at empowering small businesses. I believe in the power of collaborative development and am always ready to team up with like-minded innovators.
 
 #### 🔗 **Let's Connect!**
-Feel free to reach out to me on [LinkedIn]([Your-LinkedIn-Profile-URL](https://www.linkedin.com/in/vikasrp/)) for any exciting collaboration opportunities, discussions, or even just a chat about the latest trends in tech and manufacturing. Let's innovate together!
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/vikasrp/) for any exciting collaboration opportunities, discussions, or even just a chat about the latest trends in tech and manufacturing. Let's innovate together!
 
 
 <!---
